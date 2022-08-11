@@ -1,0 +1,15 @@
+C:\workspace\C#\C# completo\primeiro\primeiro\bin\Debug\net6.0\primeiro.exe
+C:\workspace\C#\C# completo\primeiro\primeiro\bin\Debug\net6.0\primeiro.deps.json
+C:\workspace\C#\C# completo\primeiro\primeiro\bin\Debug\net6.0\primeiro.runtimeconfig.json
+C:\workspace\C#\C# completo\primeiro\primeiro\bin\Debug\net6.0\primeiro.dll
+C:\workspace\C#\C# completo\primeiro\primeiro\bin\Debug\net6.0\primeiro.pdb
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.AssemblyReference.cache
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfoInputs.cache
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfo.cs
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.CoreCompileInputs.cache
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.dll
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\refint\primeiro.dll
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.pdb
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\primeiro.genruntimeconfig.cache
+C:\workspace\C#\C# completo\primeiro\primeiro\obj\Debug\net6.0\ref\primeiro.dll

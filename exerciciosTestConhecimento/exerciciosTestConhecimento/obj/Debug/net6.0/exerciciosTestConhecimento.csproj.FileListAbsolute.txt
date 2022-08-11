@@ -1,0 +1,15 @@
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\bin\Debug\net6.0\exerciciosTestConhecimento.exe
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\bin\Debug\net6.0\exerciciosTestConhecimento.deps.json
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\bin\Debug\net6.0\exerciciosTestConhecimento.runtimeconfig.json
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\bin\Debug\net6.0\exerciciosTestConhecimento.dll
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\bin\Debug\net6.0\exerciciosTestConhecimento.pdb
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.csproj.AssemblyReference.cache
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.AssemblyInfoInputs.cache
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.AssemblyInfo.cs
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.csproj.CoreCompileInputs.cache
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.dll
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\refint\exerciciosTestConhecimento.dll
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.pdb
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\exerciciosTestConhecimento.genruntimeconfig.cache
+C:\workspace\C#\C# completo\exerciciosTestConhecimento\exerciciosTestConhecimento\obj\Debug\net6.0\ref\exerciciosTestConhecimento.dll

@@ -1,0 +1,15 @@
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.csproj.AssemblyReference.cache
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.AssemblyInfoInputs.cache
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.AssemblyInfo.cs
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.csproj.CoreCompileInputs.cache
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\bin\Debug\net6.0\exercicioAula.exe
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\bin\Debug\net6.0\exercicioAula.deps.json
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\bin\Debug\net6.0\exercicioAula.runtimeconfig.json
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\bin\Debug\net6.0\exercicioAula.dll
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\bin\Debug\net6.0\exercicioAula.pdb
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.dll
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\refint\exercicioAula.dll
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.pdb
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\exercicioAula.genruntimeconfig.cache
+C:\workspace\C#\C# completo\exercicioAula\exercicioAula\obj\Debug\net6.0\ref\exercicioAula.dll
